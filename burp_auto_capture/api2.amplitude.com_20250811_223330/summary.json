@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250811_223330", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/api2.amplitude.com_20250811_223330/request_001.txt", 
+      "url": "https://api2.amplitude.com:443/2/httpapi", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/api2.amplitude.com_20250811_223330/response_001.txt", 
+      "timestamp": 1754962377689
+    }
+  ], 
+  "host": "api2.amplitude.com", 
+  "total_requests": 1
+}
